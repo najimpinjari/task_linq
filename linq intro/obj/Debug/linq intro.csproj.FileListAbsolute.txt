@@ -1,0 +1,7 @@
+E:\C# project\1\linq intro\bin\Debug\linq intro.exe.config
+E:\C# project\1\linq intro\bin\Debug\linq intro.exe
+E:\C# project\1\linq intro\bin\Debug\linq intro.pdb
+E:\C# project\1\linq intro\obj\Debug\linq intro.csproj.AssemblyReference.cache
+E:\C# project\1\linq intro\obj\Debug\linq intro.csproj.CoreCompileInputs.cache
+E:\C# project\1\linq intro\obj\Debug\linq intro.exe
+E:\C# project\1\linq intro\obj\Debug\linq intro.pdb
