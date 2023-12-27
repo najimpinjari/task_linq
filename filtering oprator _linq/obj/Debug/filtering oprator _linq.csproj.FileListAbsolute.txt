@@ -1,0 +1,7 @@
+E:\C# project\1\filtering oprator _linq\bin\Debug\filtering oprator _linq.exe.config
+E:\C# project\1\filtering oprator _linq\bin\Debug\filtering oprator _linq.exe
+E:\C# project\1\filtering oprator _linq\bin\Debug\filtering oprator _linq.pdb
+E:\C# project\1\filtering oprator _linq\obj\Debug\filtering oprator _linq.csproj.AssemblyReference.cache
+E:\C# project\1\filtering oprator _linq\obj\Debug\filtering oprator _linq.csproj.CoreCompileInputs.cache
+E:\C# project\1\filtering oprator _linq\obj\Debug\filtering oprator _linq.exe
+E:\C# project\1\filtering oprator _linq\obj\Debug\filtering oprator _linq.pdb
