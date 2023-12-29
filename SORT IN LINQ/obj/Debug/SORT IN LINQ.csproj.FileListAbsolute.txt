@@ -1,0 +1,7 @@
+E:\C# project\1\SORT IN LINQ\bin\Debug\SORT IN LINQ.exe.config
+E:\C# project\1\SORT IN LINQ\bin\Debug\SORT IN LINQ.exe
+E:\C# project\1\SORT IN LINQ\bin\Debug\SORT IN LINQ.pdb
+E:\C# project\1\SORT IN LINQ\obj\Debug\SORT IN LINQ.csproj.AssemblyReference.cache
+E:\C# project\1\SORT IN LINQ\obj\Debug\SORT IN LINQ.csproj.CoreCompileInputs.cache
+E:\C# project\1\SORT IN LINQ\obj\Debug\SORT IN LINQ.exe
+E:\C# project\1\SORT IN LINQ\obj\Debug\SORT IN LINQ.pdb
