@@ -1,0 +1,7 @@
+E:\C# project\1\orderby in linq\bin\Debug\orderby in linq.exe.config
+E:\C# project\1\orderby in linq\bin\Debug\orderby in linq.exe
+E:\C# project\1\orderby in linq\bin\Debug\orderby in linq.pdb
+E:\C# project\1\orderby in linq\obj\Debug\orderby in linq.csproj.AssemblyReference.cache
+E:\C# project\1\orderby in linq\obj\Debug\orderby in linq.csproj.CoreCompileInputs.cache
+E:\C# project\1\orderby in linq\obj\Debug\orderby in linq.exe
+E:\C# project\1\orderby in linq\obj\Debug\orderby in linq.pdb
