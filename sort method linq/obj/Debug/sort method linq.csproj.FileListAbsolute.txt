@@ -1,0 +1,7 @@
+E:\C# project\1\sort method linq\bin\Debug\sort method linq.exe.config
+E:\C# project\1\sort method linq\bin\Debug\sort method linq.exe
+E:\C# project\1\sort method linq\bin\Debug\sort method linq.pdb
+E:\C# project\1\sort method linq\obj\Debug\sort method linq.csproj.AssemblyReference.cache
+E:\C# project\1\sort method linq\obj\Debug\sort method linq.csproj.CoreCompileInputs.cache
+E:\C# project\1\sort method linq\obj\Debug\sort method linq.exe
+E:\C# project\1\sort method linq\obj\Debug\sort method linq.pdb
