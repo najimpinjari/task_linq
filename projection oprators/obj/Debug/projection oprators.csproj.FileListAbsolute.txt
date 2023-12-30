@@ -1,0 +1,7 @@
+E:\C# project\1\projection oprators\bin\Debug\projection oprators.exe.config
+E:\C# project\1\projection oprators\bin\Debug\projection oprators.exe
+E:\C# project\1\projection oprators\bin\Debug\projection oprators.pdb
+E:\C# project\1\projection oprators\obj\Debug\projection oprators.csproj.AssemblyReference.cache
+E:\C# project\1\projection oprators\obj\Debug\projection oprators.csproj.CoreCompileInputs.cache
+E:\C# project\1\projection oprators\obj\Debug\projection oprators.exe
+E:\C# project\1\projection oprators\obj\Debug\projection oprators.pdb
