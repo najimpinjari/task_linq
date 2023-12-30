@@ -1,0 +1,7 @@
+E:\C# project\1\gruping in linq\bin\Debug\gruping in linq.exe.config
+E:\C# project\1\gruping in linq\bin\Debug\gruping in linq.exe
+E:\C# project\1\gruping in linq\bin\Debug\gruping in linq.pdb
+E:\C# project\1\gruping in linq\obj\Debug\gruping in linq.csproj.AssemblyReference.cache
+E:\C# project\1\gruping in linq\obj\Debug\gruping in linq.csproj.CoreCompileInputs.cache
+E:\C# project\1\gruping in linq\obj\Debug\gruping in linq.exe
+E:\C# project\1\gruping in linq\obj\Debug\gruping in linq.pdb
