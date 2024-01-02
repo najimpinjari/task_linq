@@ -1,0 +1,7 @@
+E:\C# project\1\aggregation function for linq\bin\Debug\aggregation function for linq.exe.config
+E:\C# project\1\aggregation function for linq\bin\Debug\aggregation function for linq.exe
+E:\C# project\1\aggregation function for linq\bin\Debug\aggregation function for linq.pdb
+E:\C# project\1\aggregation function for linq\obj\Debug\aggregation function for linq.csproj.AssemblyReference.cache
+E:\C# project\1\aggregation function for linq\obj\Debug\aggregation function for linq.csproj.CoreCompileInputs.cache
+E:\C# project\1\aggregation function for linq\obj\Debug\aggregation function for linq.exe
+E:\C# project\1\aggregation function for linq\obj\Debug\aggregation function for linq.pdb
