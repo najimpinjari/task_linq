@@ -1,0 +1,7 @@
+E:\C# project\1\Element opaatos  for linq\bin\Debug\Element opaatos  for linq.exe.config
+E:\C# project\1\Element opaatos  for linq\bin\Debug\Element opaatos  for linq.exe
+E:\C# project\1\Element opaatos  for linq\bin\Debug\Element opaatos  for linq.pdb
+E:\C# project\1\Element opaatos  for linq\obj\Debug\Element opaatos  for linq.csproj.AssemblyReference.cache
+E:\C# project\1\Element opaatos  for linq\obj\Debug\Element opaatos  for linq.csproj.CoreCompileInputs.cache
+E:\C# project\1\Element opaatos  for linq\obj\Debug\Element opaatos  for linq.exe
+E:\C# project\1\Element opaatos  for linq\obj\Debug\Element opaatos  for linq.pdb
