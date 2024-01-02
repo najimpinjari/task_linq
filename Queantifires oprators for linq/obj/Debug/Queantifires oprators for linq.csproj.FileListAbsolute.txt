@@ -1,0 +1,7 @@
+E:\C# project\1\Queantifires oprators for linq\bin\Debug\Queantifires oprators for linq.exe.config
+E:\C# project\1\Queantifires oprators for linq\bin\Debug\Queantifires oprators for linq.exe
+E:\C# project\1\Queantifires oprators for linq\bin\Debug\Queantifires oprators for linq.pdb
+E:\C# project\1\Queantifires oprators for linq\obj\Debug\Queantifires oprators for linq.csproj.AssemblyReference.cache
+E:\C# project\1\Queantifires oprators for linq\obj\Debug\Queantifires oprators for linq.csproj.CoreCompileInputs.cache
+E:\C# project\1\Queantifires oprators for linq\obj\Debug\Queantifires oprators for linq.exe
+E:\C# project\1\Queantifires oprators for linq\obj\Debug\Queantifires oprators for linq.pdb
