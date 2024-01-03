@@ -1,0 +1,7 @@
+E:\C# project\1\set operators for linq in c#\bin\Debug\set operators for linq in c#.exe.config
+E:\C# project\1\set operators for linq in c#\bin\Debug\set operators for linq in c#.exe
+E:\C# project\1\set operators for linq in c#\bin\Debug\set operators for linq in c#.pdb
+E:\C# project\1\set operators for linq in c#\obj\Debug\set operators for linq in c#.csproj.AssemblyReference.cache
+E:\C# project\1\set operators for linq in c#\obj\Debug\set operators for linq in c#.csproj.CoreCompileInputs.cache
+E:\C# project\1\set operators for linq in c#\obj\Debug\set operators for linq in c#.exe
+E:\C# project\1\set operators for linq in c#\obj\Debug\set operators for linq in c#.pdb
