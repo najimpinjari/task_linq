@@ -1,0 +1,20 @@
+E:\C# project\1\Conversion oparetors\bin\Debug\Conversion oparetors.exe.config
+E:\C# project\1\Conversion oparetors\bin\Debug\Conversion oparetors.exe
+E:\C# project\1\Conversion oparetors\bin\Debug\Conversion oparetors.pdb
+E:\C# project\1\Conversion oparetors\obj\Debug\Conversion oparetors.csproj.AssemblyReference.cache
+E:\C# project\1\Conversion oparetors\obj\Debug\Conversion oparetors.csproj.CoreCompileInputs.cache
+E:\C# project\1\Conversion oparetors\obj\Debug\Conversion oparetors.exe
+E:\C# project\1\Conversion oparetors\obj\Debug\Conversion oparetors.pdb
+E:\C# project\1\Conversion oparetors\bin\Debug\ServiceStack.Text.dll
+E:\C# project\1\Conversion oparetors\bin\Debug\System.Buffers.dll
+E:\C# project\1\Conversion oparetors\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\C# project\1\Conversion oparetors\bin\Debug\System.Memory.dll
+E:\C# project\1\Conversion oparetors\bin\Debug\System.Numerics.Vectors.dll
+E:\C# project\1\Conversion oparetors\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\C# project\1\Conversion oparetors\bin\Debug\ServiceStack.Text.xml
+E:\C# project\1\Conversion oparetors\bin\Debug\System.Buffers.xml
+E:\C# project\1\Conversion oparetors\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\C# project\1\Conversion oparetors\bin\Debug\System.Memory.xml
+E:\C# project\1\Conversion oparetors\bin\Debug\System.Numerics.Vectors.xml
+E:\C# project\1\Conversion oparetors\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\C# project\1\Conversion oparetors\obj\Debug\Conversion oparetors.csproj.CopyComplete
