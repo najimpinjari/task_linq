@@ -1,0 +1,7 @@
+E:\C# project\1\JOIN OPRETORS\bin\Debug\JOIN OPRETORS.exe.config
+E:\C# project\1\JOIN OPRETORS\bin\Debug\JOIN OPRETORS.exe
+E:\C# project\1\JOIN OPRETORS\bin\Debug\JOIN OPRETORS.pdb
+E:\C# project\1\JOIN OPRETORS\obj\Debug\JOIN OPRETORS.csproj.AssemblyReference.cache
+E:\C# project\1\JOIN OPRETORS\obj\Debug\JOIN OPRETORS.csproj.CoreCompileInputs.cache
+E:\C# project\1\JOIN OPRETORS\obj\Debug\JOIN OPRETORS.exe
+E:\C# project\1\JOIN OPRETORS\obj\Debug\JOIN OPRETORS.pdb
