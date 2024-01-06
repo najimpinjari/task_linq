@@ -1,0 +1,7 @@
+E:\C# project\1\alam clock\bin\Debug\alam clock.exe.config
+E:\C# project\1\alam clock\bin\Debug\alam clock.exe
+E:\C# project\1\alam clock\bin\Debug\alam clock.pdb
+E:\C# project\1\alam clock\obj\Debug\alam clock.csproj.AssemblyReference.cache
+E:\C# project\1\alam clock\obj\Debug\alam clock.csproj.CoreCompileInputs.cache
+E:\C# project\1\alam clock\obj\Debug\alam clock.exe
+E:\C# project\1\alam clock\obj\Debug\alam clock.pdb
