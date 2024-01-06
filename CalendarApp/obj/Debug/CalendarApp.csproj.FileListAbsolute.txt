@@ -1,0 +1,7 @@
+E:\C# project\1\CalendarApp\bin\Debug\CalendarApp.exe.config
+E:\C# project\1\CalendarApp\bin\Debug\CalendarApp.exe
+E:\C# project\1\CalendarApp\bin\Debug\CalendarApp.pdb
+E:\C# project\1\CalendarApp\obj\Debug\CalendarApp.csproj.AssemblyReference.cache
+E:\C# project\1\CalendarApp\obj\Debug\CalendarApp.csproj.CoreCompileInputs.cache
+E:\C# project\1\CalendarApp\obj\Debug\CalendarApp.exe
+E:\C# project\1\CalendarApp\obj\Debug\CalendarApp.pdb
