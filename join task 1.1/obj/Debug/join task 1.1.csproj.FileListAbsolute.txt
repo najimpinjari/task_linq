@@ -1,0 +1,7 @@
+E:\C# project\1\join task 1.1\bin\Debug\join task 1.1.exe.config
+E:\C# project\1\join task 1.1\bin\Debug\join task 1.1.exe
+E:\C# project\1\join task 1.1\bin\Debug\join task 1.1.pdb
+E:\C# project\1\join task 1.1\obj\Debug\join task 1.1.csproj.AssemblyReference.cache
+E:\C# project\1\join task 1.1\obj\Debug\join task 1.1.csproj.CoreCompileInputs.cache
+E:\C# project\1\join task 1.1\obj\Debug\join task 1.1.exe
+E:\C# project\1\join task 1.1\obj\Debug\join task 1.1.pdb
